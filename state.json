@@ -982,11 +982,11 @@
     },
     "0.1360": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1359": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1350": {
       "alerted": true,
