@@ -45,6 +45,10 @@
     "1873.0175": {
       "alerted": true,
       "moved_away": false
+    },
+    "1867.5550": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:SOL/USD": {
@@ -250,6 +254,10 @@
     "1.2350": {
       "alerted": true,
       "moved_away": false
+    },
+    "1.2360": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:ETC/USD": {
@@ -388,6 +396,10 @@
     "0.0777": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.0788": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:SUI/USD": {
@@ -424,6 +436,10 @@
       "moved_away": false
     },
     "4.8952": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "4.9570": {
       "alerted": true,
       "moved_away": false
     }
@@ -589,11 +605,11 @@
   "coinbase:SNX/USD": {
     "0.2130": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2140": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2150": {
       "alerted": true,
@@ -604,6 +620,14 @@
       "moved_away": false
     },
     "0.2180": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2190": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2200": {
       "alerted": true,
       "moved_away": false
     }
@@ -677,6 +701,10 @@
     "0.0415": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.0417": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:STX/USD": {
@@ -706,7 +734,7 @@
   "coinbase:BONK/USD": {
     "0.0000": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:EGLD/USD": {
