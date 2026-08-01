@@ -33,6 +33,14 @@
     "1864.7267": {
       "alerted": true,
       "moved_away": false
+    },
+    "1856.5500": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "1873.0175": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:SOL/USD": {
@@ -195,6 +203,10 @@
     "0.7657": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.7612": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:LTC/USD": {
@@ -252,6 +264,14 @@
     "6.6200": {
       "alerted": true,
       "moved_away": false
+    },
+    "6.6150": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "6.5800": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:XLM/USD": {
@@ -270,6 +290,10 @@
     "0.1709": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.1697": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:NEAR/USD": {
@@ -286,7 +310,12 @@
       "moved_away": false
     }
   },
-  "coinbase:APT/USD": {},
+  "coinbase:APT/USD": {
+    "0.5547": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
   "coinbase:FIL/USD": {
     "0.7225": {
       "alerted": true,
@@ -299,6 +328,18 @@
     "0.7268": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.7140": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.7105": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.7104": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:ICP/USD": {
@@ -307,6 +348,14 @@
       "moved_away": false
     },
     "2.0640": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "2.0570": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "2.0567": {
       "alerted": true,
       "moved_away": false
     }
@@ -371,12 +420,16 @@
     "90.9500": {
       "alerted": true,
       "moved_away": false
+    },
+    "90.7433": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:SAND/USD": {
     "0.0430": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0421": {
       "alerted": true,
@@ -387,10 +440,22 @@
     "0.0663": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.0659": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0658": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:ALGO/USD": {
     "0.0801": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0807": {
       "alerted": true,
       "moved_away": false
     }
@@ -417,6 +482,10 @@
       "moved_away": false
     },
     "0.0129": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0131": {
       "alerted": true,
       "moved_away": false
     }
@@ -451,6 +520,14 @@
       "moved_away": false
     },
     "0.2052": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2043": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2041": {
       "alerted": true,
       "moved_away": false
     }
@@ -531,6 +608,10 @@
     "0.1105": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.1090": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:LDO/USD": {},
@@ -543,9 +624,13 @@
   "coinbase:WIF/USD": {
     "0.1460": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1440": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.1420": {
       "alerted": true,
       "moved_away": false
     }
@@ -578,6 +663,14 @@
     "0.1366": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.1363": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.1360": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:PYTH/USD": {
@@ -595,7 +688,7 @@
   "coinbase:EGLD/USD": {
     "2.7400": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "2.7300": {
       "alerted": true,
