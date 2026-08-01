@@ -484,6 +484,10 @@
     "0.6980": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.7010": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:ICP/USD": {
@@ -509,7 +513,7 @@
     },
     "2.0735": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "2.0450": {
       "alerted": true,
@@ -761,7 +765,7 @@
     },
     "0.2041": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2033": {
       "alerted": true,
