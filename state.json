@@ -180,7 +180,7 @@
   "coinbase:ADA/USD": {
     "0.1711": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1728": {
       "alerted": true,
@@ -990,7 +990,7 @@
     },
     "0.1350": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:PYTH/USD": {
