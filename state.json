@@ -91,6 +91,10 @@
     "72.6700": {
       "alerted": true,
       "moved_away": false
+    },
+    "72.6275": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:XRP/USD": {
@@ -274,7 +278,7 @@
   "coinbase:SHIB/USD": {
     "0.0000": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:UNI/USD": {},
@@ -330,6 +334,10 @@
       "moved_away": false
     },
     "6.5740": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "6.6160": {
       "alerted": true,
       "moved_away": false
     }
@@ -428,6 +436,10 @@
       "moved_away": false
     },
     "2.0601": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "2.0735": {
       "alerted": true,
       "moved_away": false
     }
@@ -564,6 +576,10 @@
     "0.0143": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.0145": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:XTZ/USD": {
@@ -572,6 +588,10 @@
       "moved_away": false
     },
     "0.2029": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2039": {
       "alerted": true,
       "moved_away": false
     }
@@ -593,11 +613,11 @@
   "coinbase:CRV/USD": {
     "0.2081": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2078": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2090": {
       "alerted": true,
@@ -609,7 +629,7 @@
     },
     "0.2077": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2059": {
       "alerted": true,
@@ -636,6 +656,10 @@
       "moved_away": false
     },
     "0.2034": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2029": {
       "alerted": true,
       "moved_away": false
     }
