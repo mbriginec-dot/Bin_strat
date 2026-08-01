@@ -1,47 +1,368 @@
 {
-  "coinbase:BTC/USD": {},
-  "coinbase:ETH/USD": {},
-  "coinbase:SOL/USD": {},
-  "coinbase:XRP/USD": {},
-  "coinbase:DOGE/USD": {},
-  "coinbase:ADA/USD": {},
-  "coinbase:AVAX/USD": {},
-  "coinbase:LINK/USD": {},
-  "coinbase:DOT/USD": {},
-  "coinbase:LTC/USD": {},
+  "coinbase:BTC/USD": {
+    "63182.8200": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "63100.2950": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:ETH/USD": {
+    "1876.9750": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "1874.3200": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "1873.9900": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "1862.1800": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "1865.3850": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:SOL/USD": {
+    "73.3450": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "73.3400": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "73.4333": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "73.3950": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:XRP/USD": {
+    "1.0686": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "1.0656": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:DOGE/USD": {
+    "0.0702": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0698": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:ADA/USD": {
+    "0.1711": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:AVAX/USD": {
+    "6.4350": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "6.4050": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:LINK/USD": {
+    "8.2695": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "8.2737": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "8.1960": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "8.2735": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:DOT/USD": {
+    "0.7658": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.7700": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.7656": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.7704": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:LTC/USD": {
+    "44.8400": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
   "coinbase:SHIB/USD": {},
   "coinbase:UNI/USD": {},
   "coinbase:ATOM/USD": {},
-  "coinbase:ETC/USD": {},
-  "coinbase:XLM/USD": {},
-  "coinbase:NEAR/USD": {},
+  "coinbase:ETC/USD": {
+    "6.6750": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "6.6767": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "6.7100": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "6.7200": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:XLM/USD": {
+    "0.1729": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.1722": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:NEAR/USD": {
+    "1.6820": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
   "coinbase:APT/USD": {},
-  "coinbase:FIL/USD": {},
-  "coinbase:ICP/USD": {},
-  "coinbase:ARB/USD": {},
-  "coinbase:SUI/USD": {},
-  "coinbase:OP/USD": {},
-  "coinbase:INJ/USD": {},
+  "coinbase:FIL/USD": {
+    "0.7225": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:ICP/USD": {
+    "2.0825": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:ARB/USD": {
+    "0.0781": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0787": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:SUI/USD": {
+    "0.6910": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.6912": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:OP/USD": {
+    "0.0860": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:INJ/USD": {
+    "4.8505": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
   "coinbase:AAVE/USD": {},
-  "coinbase:SAND/USD": {},
-  "coinbase:MANA/USD": {},
-  "coinbase:ALGO/USD": {},
-  "coinbase:GRT/USD": {},
-  "coinbase:XTZ/USD": {},
-  "coinbase:CHZ/USD": {},
-  "coinbase:CRV/USD": {},
-  "coinbase:COMP/USD": {},
-  "coinbase:SNX/USD": {},
-  "coinbase:1INCH/USD": {},
-  "coinbase:ZEC/USD": {},
+  "coinbase:SAND/USD": {
+    "0.0430": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:MANA/USD": {
+    "0.0663": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:ALGO/USD": {
+    "0.0801": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:GRT/USD": {
+    "0.0144": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:XTZ/USD": {
+    "0.2024": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:CHZ/USD": {
+    "0.0130": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:CRV/USD": {
+    "0.2081": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2078": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2090": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2087": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2077": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:COMP/USD": {
+    "16.6233": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "16.6167": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "16.7000": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:SNX/USD": {
+    "0.2130": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2140": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.2150": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:1INCH/USD": {
+    "0.0820": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:ZEC/USD": {
+    "462.3750": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
   "coinbase:IMX/USD": {},
   "coinbase:LDO/USD": {},
-  "coinbase:PEPE/USD": {},
-  "coinbase:WIF/USD": {},
-  "coinbase:TIA/USD": {},
-  "coinbase:SEI/USD": {},
-  "coinbase:STX/USD": {},
+  "coinbase:PEPE/USD": {
+    "0.0000": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:WIF/USD": {
+    "0.1460": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:TIA/USD": {
+    "0.3255": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:SEI/USD": {
+    "0.0416": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0418": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:STX/USD": {
+    "0.1375": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
   "coinbase:PYTH/USD": {},
-  "coinbase:BONK/USD": {},
-  "coinbase:EGLD/USD": {}
+  "coinbase:BONK/USD": {
+    "0.0000": {
+      "alerted": true,
+      "moved_away": false
+    }
+  },
+  "coinbase:EGLD/USD": {
+    "2.7400": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "2.7300": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "2.7200": {
+      "alerted": true,
+      "moved_away": false
+    }
+  }
 }
