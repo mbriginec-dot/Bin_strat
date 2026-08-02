@@ -82,7 +82,7 @@
   "coinbase:SOL/USD": {
     "73.3450": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     },
     "73.3400": {
       "alerted": true,
@@ -132,11 +132,11 @@
     },
     "1.0569": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1.0512": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:DOGE/USD": {
@@ -184,7 +184,7 @@
     },
     "0.1728": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:AVAX/USD": {
@@ -260,7 +260,7 @@
     },
     "8.1345": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "8.1325": {
       "alerted": true,
@@ -413,7 +413,7 @@
     },
     "0.1710": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1709": {
       "alerted": true,
@@ -425,7 +425,7 @@
     },
     "0.1699": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:NEAR/USD": {
@@ -483,11 +483,11 @@
     },
     "0.6980": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.7010": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ICP/USD": {
@@ -531,11 +531,11 @@
   "coinbase:ARB/USD": {
     "0.0781": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0787": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0777": {
       "alerted": true,
@@ -543,7 +543,7 @@
     },
     "0.0788": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0771": {
       "alerted": true,
@@ -569,11 +569,11 @@
     },
     "0.6773": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.6726": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:OP/USD": {
@@ -881,7 +881,7 @@
   "coinbase:ZEC/USD": {
     "462.3750": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "468.2967": {
       "alerted": true,
@@ -942,11 +942,11 @@
     },
     "0.3234": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.3218": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:SEI/USD": {
@@ -1008,7 +1008,7 @@
     },
     "0.0387": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:BONK/USD": {
