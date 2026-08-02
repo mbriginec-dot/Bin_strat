@@ -306,7 +306,7 @@
     },
     "0.7750": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:LTC/USD": {
@@ -665,7 +665,7 @@
     },
     "0.0807": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     },
     "0.0792": {
       "alerted": true,
@@ -673,7 +673,7 @@
     },
     "0.0787": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:GRT/USD": {
