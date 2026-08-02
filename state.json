@@ -678,6 +678,10 @@
     "0.0811": {
       "alerted": true,
       "moved_away": false
+    },
+    "0.0827": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:GRT/USD": {
@@ -879,7 +883,7 @@
     },
     "0.0810": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:ZEC/USD": {
