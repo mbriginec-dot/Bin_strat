@@ -124,7 +124,7 @@
     },
     "1.0656": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1.0665": {
       "alerted": true,
@@ -659,7 +659,7 @@
     },
     "0.0658": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ALGO/USD": {
