@@ -162,17 +162,21 @@
     },
     "0.0693": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0692": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0687": {
       "alerted": true,
       "moved_away": true
     },
     "0.0688": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "0.0709": {
       "alerted": true,
       "moved_away": false
     }
@@ -345,7 +349,7 @@
     },
     "1.2360": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1.2235": {
       "alerted": true,
@@ -601,7 +605,7 @@
     },
     "4.9570": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "4.8895": {
       "alerted": true,
@@ -691,7 +695,7 @@
     },
     "0.0143": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0145": {
       "alerted": true,
