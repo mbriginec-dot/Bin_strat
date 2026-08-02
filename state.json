@@ -72,7 +72,7 @@
     },
     "1846.5450": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1847.3067": {
       "alerted": true,
@@ -525,7 +525,7 @@
     },
     "2.0467": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "2.0400": {
       "alerted": true,
