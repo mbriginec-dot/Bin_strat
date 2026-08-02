@@ -328,7 +328,7 @@
     },
     "44.0250": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:SHIB/USD": {
@@ -517,7 +517,7 @@
     },
     "2.0450": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "2.0467": {
       "alerted": true,
@@ -593,7 +593,7 @@
     },
     "4.8960": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "4.8952": {
       "alerted": true,
