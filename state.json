@@ -170,7 +170,7 @@
     },
     "0.0687": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0688": {
       "alerted": true,
@@ -234,7 +234,7 @@
     },
     "6.2300": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:LINK/USD": {
@@ -405,11 +405,11 @@
   "coinbase:XLM/USD": {
     "0.1729": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1722": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1710": {
       "alerted": true,
@@ -449,7 +449,7 @@
     },
     "0.5548": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:FIL/USD": {
@@ -749,7 +749,7 @@
     },
     "0.2059": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     },
     "0.2056": {
       "alerted": true,
@@ -781,11 +781,11 @@
     },
     "0.2019": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2006": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:COMP/USD": {
@@ -875,7 +875,7 @@
     },
     "0.0810": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ZEC/USD": {
@@ -932,7 +932,7 @@
     },
     "0.1370": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:TIA/USD": {
