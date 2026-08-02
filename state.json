@@ -641,7 +641,7 @@
     },
     "0.0414": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:MANA/USD": {
@@ -669,11 +669,15 @@
     },
     "0.0792": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0787": {
       "alerted": true,
       "moved_away": true
+    },
+    "0.0811": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:GRT/USD": {
@@ -1004,7 +1008,7 @@
     },
     "0.0389": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0387": {
       "alerted": true,
