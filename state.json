@@ -479,7 +479,7 @@
     },
     "0.7060": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.6980": {
       "alerted": true,
@@ -589,7 +589,7 @@
   "coinbase:INJ/USD": {
     "4.8505": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "4.8960": {
       "alerted": true,
@@ -665,7 +665,7 @@
     },
     "0.0807": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0792": {
       "alerted": true,
@@ -677,7 +677,7 @@
     },
     "0.0811": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0827": {
       "alerted": true,
@@ -911,7 +911,7 @@
     },
     "0.1090": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:LDO/USD": {},
