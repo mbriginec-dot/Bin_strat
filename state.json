@@ -525,7 +525,7 @@
     },
     "2.0400": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ARB/USD": {
@@ -681,7 +681,7 @@
     },
     "0.0827": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:GRT/USD": {
