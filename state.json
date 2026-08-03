@@ -944,7 +944,7 @@
     },
     "0.1370": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:TIA/USD": {
