@@ -178,7 +178,7 @@
     },
     "0.0709": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ADA/USD": {
@@ -202,7 +202,7 @@
     },
     "6.3750": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     },
     "6.3760": {
       "alerted": true,
@@ -705,7 +705,7 @@
   "coinbase:XTZ/USD": {
     "0.2024": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2029": {
       "alerted": true,
@@ -968,7 +968,7 @@
     },
     "0.0418": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0415": {
       "alerted": true,
