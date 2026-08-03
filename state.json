@@ -521,7 +521,7 @@
     },
     "2.0450": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "2.0467": {
       "alerted": true,
@@ -615,7 +615,7 @@
   "coinbase:AAVE/USD": {
     "90.9700": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "90.9500": {
       "alerted": true,
@@ -761,7 +761,7 @@
     },
     "0.2059": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     },
     "0.2056": {
       "alerted": true,
