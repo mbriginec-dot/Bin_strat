@@ -174,7 +174,7 @@
     },
     "0.0688": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0709": {
       "alerted": true,
@@ -202,7 +202,7 @@
     },
     "6.3750": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "6.3760": {
       "alerted": true,
@@ -721,7 +721,7 @@
     },
     "0.2003": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:CHZ/USD": {
@@ -849,7 +849,7 @@
   "coinbase:SNX/USD": {
     "0.2130": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2140": {
       "alerted": true,
@@ -877,7 +877,7 @@
     },
     "0.2120": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:1INCH/USD": {
