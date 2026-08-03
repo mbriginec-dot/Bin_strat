@@ -475,7 +475,7 @@
     },
     "0.7105": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.7104": {
       "alerted": true,
@@ -501,7 +501,7 @@
     },
     "2.0640": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "2.0570": {
       "alerted": true,
@@ -869,7 +869,7 @@
     },
     "0.2190": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     },
     "0.2200": {
       "alerted": true,
@@ -944,7 +944,7 @@
     },
     "0.1370": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:TIA/USD": {
@@ -1052,7 +1052,7 @@
     },
     "2.6600": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   }
 }
