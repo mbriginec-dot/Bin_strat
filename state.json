@@ -454,6 +454,10 @@
     "0.5548": {
       "alerted": true,
       "moved_away": true
+    },
+    "0.5788": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:FIL/USD": {
