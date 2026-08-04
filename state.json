@@ -242,7 +242,7 @@
     },
     "6.8300": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:LINK/USD": {
@@ -1032,7 +1032,7 @@
     },
     "0.0382": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:BONK/USD": {
