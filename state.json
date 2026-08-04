@@ -239,6 +239,10 @@
     "6.2300": {
       "alerted": true,
       "moved_away": true
+    },
+    "6.8300": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:LINK/USD": {
