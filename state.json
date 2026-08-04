@@ -823,7 +823,7 @@
     },
     "16.3900": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "16.4400": {
       "alerted": true,
@@ -831,7 +831,7 @@
     },
     "16.3850": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "16.4286": {
       "alerted": true,
@@ -847,7 +847,7 @@
     },
     "16.4433": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:SNX/USD": {
