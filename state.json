@@ -375,7 +375,7 @@
     },
     "6.7100": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "6.7200": {
       "alerted": true,
