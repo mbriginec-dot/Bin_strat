@@ -2,7 +2,7 @@
   "coinbase:BTC/USD": {
     "63182.8200": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "63100.2950": {
       "alerted": true,
