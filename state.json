@@ -403,7 +403,7 @@
     },
     "6.6100": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "6.5740": {
       "alerted": true,
