@@ -433,7 +433,7 @@
     },
     "0.1697": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.1699": {
       "alerted": true,
@@ -899,7 +899,7 @@
     },
     "0.0810": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ZEC/USD": {
