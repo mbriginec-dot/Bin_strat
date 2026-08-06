@@ -128,7 +128,7 @@
   "coinbase:XRP/USD": {
     "1.0686": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1.0656": {
       "alerted": true,
@@ -144,7 +144,11 @@
     },
     "1.0512": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
+    },
+    "1.0453": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:DOGE/USD": {
@@ -642,6 +646,10 @@
       "moved_away": false
     },
     "91.8700": {
+      "alerted": true,
+      "moved_away": false
+    },
+    "88.8450": {
       "alerted": true,
       "moved_away": false
     }
