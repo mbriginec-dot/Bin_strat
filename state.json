@@ -785,7 +785,7 @@
     },
     "0.2059": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2056": {
       "alerted": true,
@@ -813,7 +813,7 @@
     },
     "0.2029": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.2019": {
       "alerted": true,
@@ -827,7 +827,7 @@
   "coinbase:COMP/USD": {
     "16.6233": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "16.6167": {
       "alerted": true,
