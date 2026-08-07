@@ -651,7 +651,7 @@
     },
     "88.8450": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:SAND/USD": {
