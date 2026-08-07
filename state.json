@@ -322,7 +322,7 @@
     },
     "0.7612": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.7660": {
       "alerted": true,
@@ -880,6 +880,10 @@
     "16.4433": {
       "alerted": true,
       "moved_away": true
+    },
+    "17.0100": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:SNX/USD": {
@@ -924,6 +928,10 @@
     "0.0810": {
       "alerted": true,
       "moved_away": true
+    },
+    "0.0850": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:ZEC/USD": {
