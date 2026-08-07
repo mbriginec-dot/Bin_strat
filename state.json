@@ -822,6 +822,10 @@
     "0.2006": {
       "alerted": true,
       "moved_away": true
+    },
+    "0.2172": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:COMP/USD": {
