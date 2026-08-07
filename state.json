@@ -353,6 +353,10 @@
     "44.0250": {
       "alerted": true,
       "moved_away": true
+    },
+    "46.0500": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:SHIB/USD": {
@@ -829,7 +833,7 @@
     },
     "0.2172": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:COMP/USD": {
@@ -976,7 +980,7 @@
     },
     "0.1370": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:TIA/USD": {
