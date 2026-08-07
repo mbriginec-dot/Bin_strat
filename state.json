@@ -1060,7 +1060,7 @@
     },
     "0.0382": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:BONK/USD": {
