@@ -481,7 +481,7 @@
     },
     "0.5788": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:FIL/USD": {
@@ -833,7 +833,7 @@
     },
     "0.2172": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:COMP/USD": {
