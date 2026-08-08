@@ -638,6 +638,10 @@
     "4.8895": {
       "alerted": true,
       "moved_away": false
+    },
+    "4.4355": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:AAVE/USD": {
@@ -1072,7 +1076,7 @@
     },
     "0.0382": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:BONK/USD": {
