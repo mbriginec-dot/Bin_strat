@@ -94,7 +94,7 @@
   "coinbase:SOL/USD": {
     "73.3450": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "73.3400": {
       "alerted": true,
@@ -988,7 +988,7 @@
     },
     "0.1370": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:TIA/USD": {
