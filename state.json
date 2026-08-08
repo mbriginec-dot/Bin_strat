@@ -883,7 +883,7 @@
     },
     "17.0100": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:SNX/USD": {
