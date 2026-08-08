@@ -127,6 +127,10 @@
     "72.6275": {
       "alerted": true,
       "moved_away": false
+    },
+    "76.6100": {
+      "alerted": true,
+      "moved_away": false
     }
   },
   "coinbase:XRP/USD": {
@@ -194,7 +198,7 @@
     },
     "0.0709": {
       "alerted": true,
-      "moved_away": true
+      "moved_away": false
     }
   },
   "coinbase:ADA/USD": {
