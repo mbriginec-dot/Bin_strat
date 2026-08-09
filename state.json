@@ -152,7 +152,7 @@
     },
     "1.0512": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1.0453": {
       "alerted": true,
@@ -198,7 +198,7 @@
     },
     "0.0709": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ADA/USD": {
