@@ -1040,7 +1040,7 @@
     },
     "0.0412": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:STX/USD": {
