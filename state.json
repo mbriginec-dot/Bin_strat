@@ -649,7 +649,7 @@
     },
     "4.4355": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:AAVE/USD": {
