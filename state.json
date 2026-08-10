@@ -360,7 +360,7 @@
     },
     "46.0500": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:SHIB/USD": {
