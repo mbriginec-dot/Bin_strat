@@ -30,7 +30,7 @@
     },
     "65490.9633": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:ETH/USD": {
