@@ -26,7 +26,7 @@
     },
     "65002.0650": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "65490.9633": {
       "alerted": true,
@@ -130,7 +130,7 @@
     },
     "76.6100": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     }
   },
   "coinbase:XRP/USD": {
