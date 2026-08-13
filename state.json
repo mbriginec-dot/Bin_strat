@@ -463,7 +463,7 @@
   "coinbase:NEAR/USD": {
     "1.6820": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "1.6650": {
       "alerted": true,
