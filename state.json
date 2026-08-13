@@ -695,7 +695,7 @@
   "coinbase:MANA/USD": {
     "0.0663": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "0.0659": {
       "alerted": true,
