@@ -242,7 +242,7 @@
     },
     "6.3000": {
       "alerted": true,
-      "moved_away": false
+      "moved_away": true
     },
     "6.3050": {
       "alerted": true,
